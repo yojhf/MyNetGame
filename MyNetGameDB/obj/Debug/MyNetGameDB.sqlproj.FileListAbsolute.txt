@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\bin\Debug\MyNetGameDB.dacpac
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\bin\Debug\MyNetGameDB.dll
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\bin\Debug\MyNetGameDB.pdb
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\MyNetGameDB.sqlproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\Model.xml
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\refactor.xml
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\postdeploy.sql
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\predeploy.sql
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\MyNetGameDB.dll
+C:\Users\Admin\source\repos\MyNetGame\MyNetGameDB\obj\Debug\MyNetGameDB.pdb
+D:\Project\MyNetGame\MyNetGameDB\bin\Debug\MyNetGameDB.dacpac
+D:\Project\MyNetGame\MyNetGameDB\bin\Debug\MyNetGameDB.dll
+D:\Project\MyNetGame\MyNetGameDB\bin\Debug\MyNetGameDB.pdb
+D:\Project\MyNetGame\MyNetGameDB\obj\Debug\MyNetGameDB.sqlproj.AssemblyReference.cache
+D:\Project\MyNetGame\MyNetGameDB\obj\Debug\MyNetGameDB.dll
+D:\Project\MyNetGame\MyNetGameDB\obj\Debug\MyNetGameDB.pdb
