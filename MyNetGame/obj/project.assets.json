@@ -4592,11 +4592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\MyNetGame\\MyNetGame\\MyNetGame.csproj",
+      "projectUniqueName": "D:\\GitHub\\MyNetGame\\MyNetGame\\MyNetGame.csproj",
       "projectName": "MyNetGame",
-      "projectPath": "D:\\Project\\MyNetGame\\MyNetGame\\MyNetGame.csproj",
+      "projectPath": "D:\\GitHub\\MyNetGame\\MyNetGame\\MyNetGame.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\MyNetGame\\MyNetGame\\obj\\",
+      "outputPath": "D:\\GitHub\\MyNetGame\\MyNetGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
